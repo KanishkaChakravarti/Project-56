@@ -1,0 +1,21 @@
+
+.column {
+ 
+    margin-left:25px;
+        margin-right:25px;
+    background-color:aqua;
+        
+}
+
+.row{
+    display: flex;
+ justify-content: center; 
+}
+body {
+    text-align: center;
+    background-color: darkorange;
+}
+    
+   
+
+
